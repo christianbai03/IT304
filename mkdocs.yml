@@ -17,7 +17,7 @@ nav:
 
 extra:
   generator: false
-  homepage: https://radarsecurity.ai
+  homepage: 
 
 extra_css:
   - stylesheets/extra.css
