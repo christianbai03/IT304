@@ -1,4 +1,4 @@
-site_name: RADAR Documentation
+site_name: IT 304 Assignment 2
 
 theme:
   name: material
@@ -13,21 +13,6 @@ theme:
 
 nav:
   - Home: index.md
-  - 'User Guide': 
-    - 'Setup Guide': setup.md
-    - 'Sign-In Instructions': sign-in.md
-    - 'Dashboard Overview': dashboard.md
-    - 'Navigating the Interface': navigation.md
-    - 'Discussion Features': discussion.md
-  - 'Penetration Tests': 
-    - 'Request a Pentest': request-pentest.md
-    - 'Types of Pentests': pentest-type.md
-    - 'My Pentests': my-pentest.md
-  - 'Threat Discovery':
-    - 'Threat Discovery': threat-discovery.md
-    - ' Discovery Configuration': configuration.md
-    - 'Authentication Methods': auth-method.md
-  - 'Settings': settings.md
 
 
 extra:
@@ -37,4 +22,4 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright &copy; 2024 <a href="https://www.riscpoint.com/">RISCPoint<sup>&reg;</sup></a> All Rights Reserved.
+copyright: Copyright &copy; 2024 Me All Rights Reserved.
