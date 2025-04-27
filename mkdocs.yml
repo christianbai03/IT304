@@ -2,24 +2,16 @@ site_name: IT 304 Assignment 2
 
 theme:
   name: material
-  icon:
-    logo: material/radar
   palette:
-    primary: custom
+    primary: black
+    scheme: slate
   features:
-    - navigation.path
     - navigation.top
-    - toc.follow
+    - navigation.tabs
+    
 
 nav:
   - Home: index.md
+  - Ethics: ethics.md
 
 
-extra:
-  generator: false
-  homepage: 
-
-extra_css:
-  - stylesheets/extra.css
-
-copyright: Copyright &copy; 2024 Me All Rights Reserved.

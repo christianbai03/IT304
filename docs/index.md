@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Hello
 
 | Name    | Christian Bai                                                                |
