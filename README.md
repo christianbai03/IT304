@@ -1,3 +1,2 @@
-# IT304-DL4 Group 8 Final Project
-
-**Currently maintained by Christian Bai**
+# 304 Assignment 2
+ **Currently maintained by Christian Bai**
