@@ -1,17 +1,37 @@
-site_name: IT 304 Assignment 2
+site_name: Group 8 Final Project
 
 theme:
+  logo: images/chatgpt (1).png
+  favicon: images/chatgpt.png
   name: material
   palette:
-    primary: black
-    scheme: slate
+     # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.top
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
     
 
 nav:
   - Home: index.md
-  - Ethics: ethics.md
+  - Real World Applications: applications.md
+  - Ethics & Critical Analysis: analysis.md
+  - Recommendations: rec.md
+  - References & Further Reading: refer.md
 
-
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
